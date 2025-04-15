@@ -21,7 +21,6 @@ A high-performance, multithreaded HTTP proxy server built in C using `pthreads`,
 
 - **60% reduction in server traffic** during simulated load of 1000+ requests/hour
 - **Average response time reduced from 150ms to 20ms** on cache hits
-- Tested with repeated client-side HTTP requests using `curl` and `ab (Apache Bench)`
 
 ---
 
